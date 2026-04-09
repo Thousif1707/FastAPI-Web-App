@@ -1,0 +1,16 @@
+# Python
+_pycache_/
+*.pyc
+.env
+
+# Virtual environment
+.venv/
+
+# Database / local files
+*.db
+
+# Alembic
+alembic/versions/_pycache_/
+
+# VS Code
+.vscode/
